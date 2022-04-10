@@ -1,5 +1,5 @@
 package lab2AlgorithmsLabSolution;
-
+ 
 import java.util.Arrays;
 
 import java.util.Scanner;
